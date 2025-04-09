@@ -63,7 +63,13 @@ const messages = [
     "like be very sad...",
     "I will be very very very very sad...",
     "Ok fine, I will stop asking...",
-    "sikee! say yes please...:((! ❤️"
+    "You’ll regret saying no... but it’ll be okay... I guess... 😔",
+    "SIKEEE!! say yesss please...:((! ❤️",
+    "I'll be the best prom date ever, I promise!",
+    "I’ll owe you for life if you say yes...💖",
+    "Are you really going to break my heart like this? 💔",
+    "aww dang it!! okayy:((",
+    "see you at prom then...",
 ];
 
 let messageIndex = 0;
